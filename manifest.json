@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+
+  "name": "Crypto Currency Investment",
+  "description": "Chrome Extension for investigation on crypto currencies.",
+  "author": "Rene Gust <info@rene-gust.de>",
+  "version": "0.0.1",
+
+  "permissions": [
+    "storage"
+  ],
+
+  "icons": {
+    "16": "icon_16.png",
+    "128": "icon_128.png"
+  },
+
+  "app": {
+    "background": {
+      "scripts": [
+        "main.js"
+      ]
+    }
+  }
+}

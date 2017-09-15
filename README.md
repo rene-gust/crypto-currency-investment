@@ -1,2 +1,2 @@
 # crypto-currency-investment
-Chrome Extension for investigation on cryptocurrencies
+Chrome Extension for investigation on crypto currencies.
